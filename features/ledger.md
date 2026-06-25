@@ -13,6 +13,7 @@
 | FEAT-0007 | Build New Agent Prompt | Draft | tickets/FEAT-0007-build-new-agent-prompt.md |
 | FEAT-0008 | Schema Selection Guide | Draft | tickets/FEAT-0008-schema-selection-guide.md |
 | FEAT-0009 | Minimum Viable Agent Repo | Draft | tickets/FEAT-0009-minimum-viable-agent-repo.md |
+| FEAT-0010 | Family Map | Draft | tickets/FEAT-0010-family-map.md |
 
 ## Rule
 
