@@ -76,6 +76,13 @@ Small details may become durable rules.
 - [Validation Pattern](docs/validation-pattern.md)
 - [Handoff Sheet Pattern](docs/handoff-sheet-pattern.md)
 
+## Build A New Agent
+
+- [New Agent Checklist](docs/new-agent-checklist.md)
+- [Build New Agent Prompt](docs/build-new-agent-prompt.md)
+- [Minimum Viable Agent Repo](docs/agent-schema-minimum-viable-repo.md)
+- [Schema Selection Guide](docs/schema-selection-guide.md)
+
 ## Example Agent
 
 - [Example Agent](agents/example-agent/README.md)
@@ -103,4 +110,4 @@ schema-gitrepo
 
 ## Status
 
-Version: `v0.1.1-expanded`
+Version: `v0.1.2-usability`
