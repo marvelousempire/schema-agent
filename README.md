@@ -51,6 +51,7 @@ features/
 features/tickets/
 obsidian/
 obsidian/journal/
+templates/
 tests/
 ```
 
@@ -71,6 +72,24 @@ Small details may become durable rules.
 - [Agent Folder Standard](docs/agent-folder-standard.md)
 - [Feature Ticket Pattern](docs/feature-ticket-pattern.md)
 - [Firing Order Pattern](docs/firing-order-pattern.md)
+- [Founder Tuning Loop](docs/founder-tuning-loop.md)
+- [Validation Pattern](docs/validation-pattern.md)
+- [Handoff Sheet Pattern](docs/handoff-sheet-pattern.md)
+
+## Example Agent
+
+- [Example Agent](agents/example-agent/README.md)
+- [Example Core System Prompt](agents/example-agent/system-prompt/00-core-system-prompt.md)
+- [Example Firing Order](agents/example-agent/system-prompt/01-firing-order.md)
+
+## Templates
+
+- [README Template](templates/readme-template.md)
+- [ABOUT Template](templates/about-template.md)
+- [PRD Template](templates/prd-template.md)
+- [Feature Ticket Template](templates/feature-ticket-template.md)
+- [Journal Entry Template](templates/journal-entry-template.md)
+- [Handoff Sheet Template](templates/handoff-sheet-template.md)
 
 ## Related Schema
 
@@ -84,4 +103,4 @@ schema-gitrepo
 
 ## Status
 
-Version: `v0.1.0-origin`
+Version: `v0.1.1-expanded`
