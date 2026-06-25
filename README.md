@@ -75,6 +75,7 @@ Small details may become durable rules.
 - [Founder Tuning Loop](docs/founder-tuning-loop.md)
 - [Validation Pattern](docs/validation-pattern.md)
 - [Handoff Sheet Pattern](docs/handoff-sheet-pattern.md)
+- [Schema Family Map](docs/schema-family-map.md)
 
 ## Build A New Agent
 
@@ -100,14 +101,17 @@ Small details may become durable rules.
 
 ## Related Schema
 
-This repo covers agent creation.
-
-A future sibling repo should cover general Git repo structure:
-
 ```text
-schema-gitrepo
+schema-agent      = how to build agents
+schema-gitrepo    = how to structure Git repos
+agent-housekeeper = first working reusable agent standard
+motif             = working product repo using the repo and agent patterns
 ```
+
+Read:
+
+- [Schema Family Map](docs/schema-family-map.md)
 
 ## Status
 
-Version: `v0.1.2-usability`
+Version: `v0.1.3-family-map`
