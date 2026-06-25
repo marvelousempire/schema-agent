@@ -46,6 +46,10 @@ The Repo Manifest lists the important files and folders in Schema Agent.
 | docs/release-ledger-pattern.md | Release ledger pattern |
 | docs/repo-manifest-pattern.md | Repo manifest pattern |
 | docs/schema-agent-to-agent-housekeeper-map.md | Example mapping |
+| docs/new-agent-checklist.md | New agent checklist |
+| docs/build-new-agent-prompt.md | AI handoff prompt |
+| docs/schema-selection-guide.md | Schema choice guide |
+| docs/agent-schema-minimum-viable-repo.md | Minimum safe agent repo |
 
 ## House Rule
 
