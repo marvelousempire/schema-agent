@@ -3,7 +3,7 @@
 ## Current Version
 
 ```text
-v0.1.1-expanded
+v0.1.2-usability
 ```
 
 ## Ledger
@@ -12,6 +12,7 @@ v0.1.1-expanded
 | --- | --- | --- |
 | v0.1.0 | Initial schema-agent repo. | active |
 | v0.1.1 | Added example agent, templates, pattern docs, and expanded manifest. | active |
+| v0.1.2 | Added new-agent checklist, build prompt, schema selection guide, and minimum viable repo guide. | active |
 
 ## Rule
 
