@@ -1,0 +1,11 @@
+{
+  "agent": "example-agent",
+  "order": [
+    "00-core-system-prompt.md",
+    "01-firing-order.md",
+    "02-load-sequence.md",
+    "03-rule-stack.md",
+    "04-context-stack.md",
+    "05-output-contract.md"
+  ]
+}
